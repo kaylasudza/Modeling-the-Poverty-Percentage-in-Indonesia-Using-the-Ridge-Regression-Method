@@ -1,5 +1,5 @@
 library(readxl)
-Kemiskinan <- read_excel("C:/Users/edric/Downloads/Kemiskinan.xlsx")
+Kemiskinan <- read_excel("C:/Users/kayla/Downloads/Kemiskinan.xlsx")
 View(Kemiskinan)
 
 library(car)
