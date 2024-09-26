@@ -1,0 +1,1 @@
+# Modeling-the-Poverty-Percentage-in-Indonesia-Using-the-Ridge-Regression-Method
